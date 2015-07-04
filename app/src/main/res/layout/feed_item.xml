@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/card_margin"
+    android:layout_marginLeft="@dimen/card_margin"
+    android:layout_marginRight="@dimen/card_margin"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/feed_item_user_avatar"
+            android:layout_width="@dimen/avatar_size"
+            android:layout_height="@dimen/avatar_size"
+            android:src="@drawable/capture" />
+
+        <TextView
+            android:id="@+id/feed_item_user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:text="Username"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@color/primary_dark"/>
+
+        </LinearLayout>
+        <com.example.akshaypall.material.RatioLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:ratio="1">
+        <ImageView
+            android:id="@+id/feed_item_photo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/wonderland"/>
+        </com.example.akshaypall.material.RatioLayout>
+        <TextView
+            android:id="@+id/feed_item_caption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/vertical_small_margin"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:text="This is my caption." />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

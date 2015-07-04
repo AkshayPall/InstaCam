@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Akshay Pall\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.2\91c20388c9a45f62b5ed8fe0502bb76ff6251fc7\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-81f7c38644d2235046d1a3b8afa633557e9d206b.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-343bf9d46f679635da0ff556e3001e91729bdb45.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-a20a7450bb9528fc9f15804d34162e6341085b6c.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\com.akshaypall.material\material\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="eee03edda11d4f8273cedeaa9ba65c6a3736d3fa">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-bdecc1db08f9318d3e6cbbe87f6c0a382f437ae3.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\3.21.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0285ad8da812e92dda76ed5d0dcba05724c7911d">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-25c6dab43086466922d57d994de04661de18d28d.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\it.neokree\MaterialTabs\0.11\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fef6aa7ea0bb2d6adf10965d0a5bb8e353517bff">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-05ea0536c711bdcbefa476ec0f59af1e0cc45d3d.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-c490ac9572072ba1bd12aff92b70411d5755d9b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay Pall\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-cfc16f00077f341316b2be1c83a31551e194a5cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Akshay Pall\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-7237a1e02a5a27d5cb1f61c197ad6f696dea6944.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\com.github.markushi\android-ui\1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-773bff215207e00366de2f755943b7479dd21540.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-35ab70c7b7b150a93ff202e528c264440794126e.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-44d651d53e60094e9beb7c4bfdb0eddf4e2d9698.jar" />
+    </item>
+    <item
+        jar="D:\androidProjects\InstaCam\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\androidProjects\InstaCam\app\build\intermediates\pre-dexed\debug\classes-81fa2c580faca949f1aa110a9747adf1e6169cb8.jar" />
+    </item>
+
+</items>

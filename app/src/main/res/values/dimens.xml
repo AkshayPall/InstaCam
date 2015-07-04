@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="tool_tab_bar_elevation">8dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="pre21_fab_shadow_offset">8dp</dimen>
+    <dimen name="new_photo_save_button_top_margin">16dp</dimen>
+    <dimen name="fb_loginbutton_height">100dp</dimen>
+    <dimen name="profile_fragment_padding">16dp</dimen>
+</resources>
